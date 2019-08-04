@@ -1,0 +1,25 @@
+
+*{
+    margin: 0%;
+    padding: 0%;
+}
+
+#main{
+    width: 1024px;
+    height: 768;
+}
+
+#chartHead{
+    background: #D8D8D8;
+    border: 1px solid #979797;
+}
+
+.frameIcon{
+    background: #23BC56;
+    border: 2px solid #297542;
+}
+
+.frameIcon> .group-icon>image{
+    background: #FDF8F8;
+}
+
